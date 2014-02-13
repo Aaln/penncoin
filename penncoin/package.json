@@ -1,0 +1,22 @@
+{
+  "name": "tickfinity",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+      "node": "0.10.21",
+      "npm" : "1.3.11"
+    },
+  "dependencies": {
+    "express": "latest",
+    "kik-cards" : "latest",
+    "ejs" : "latest"
+  },
+  "description": "tickfinity",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "author": "Aaron Landy",
+  "license": "BSD"
+}
